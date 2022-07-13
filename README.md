@@ -2,7 +2,7 @@
 ### What is a GeoGuesser?
 
 GeoGuesser is a game that lets you “travel the world” and tests your knowledge of the world we live in. It does this by displaying images of landmarks in the world and asks the user to enter the place where the landmark is located in a text box. If the user answers correctly, they win the round. 
- ***You have been provided with a skeleton file for this game.***  The following is a more detailed description of how to approach coding this game. 
+ ***You will work in teams of 2. You have been provided with a skeleton file for this game.***  The following is a more detailed description of how to approach coding this game. 
 
 ### What are the steps needed to make such a game?
 #### 1.	Selecting and accessing the images to display: 
